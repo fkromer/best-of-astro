@@ -24,6 +24,8 @@ categories:
     title: "Integrations (SSR Adapters)"
   - category: "integrations-seo"
     title: "Integrations (SEO)"
+  - category: "integrations-spa"
+    title: "Integrations (SPA)"
 
 labels:
   - label: "javascript"
@@ -127,3 +129,7 @@ projects:
   - name: Astro SEO
     github_id: jonasmerlin/astro-seo
     category: "integrations-seo"
+
+  - name: Astro SPA
+    github_id: RafidMuhymin/astro-spa
+    category: "integrations-spa"
