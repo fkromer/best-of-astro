@@ -1,19 +1,68 @@
 configuration:
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
+  max_description_length: 1000  # don't truncate descriptions
+  min_stars: 0
+  min_projectrank: 5
+  require_license: false
+  project_inactive_months: 12
+  project_dead_months: 60
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: "theme"
+    title: "Theme"
+  - category: "gh-template-theme"
+    title: "Theme (GitHub template)"
+  - category: "gh-template-starter"
+    title: "Starter (GitHub template)"
 
 labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
+  - label: "javascript"
+  - label: "typescript"
+  - label: "tailwind"
+  - label: "flowbite"
+  - label: "tailus"
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: Flowbite Astro Admin Dashboard
+    github_id: themesberg/flowbite-astro-admin-dashboard
+    category: "theme"
+    labels: ["tailwind", "flowbite"]
+
+  - name: Accessible Astro Dashboard
+    github_id: markteekman/accessible-astro-dashboard
+    category: "gh-template-theme"
+    labels: ["accessible-astro-components", "javascript"]
+  - name: AstroWind
+    github_id: onwidget/astrowind
+    category: "gh-template-theme"
+    labels: ["tailwind", "typescript"]
+  - name: AstroShip
+    github_id: surjithctly/astroship
+    category: "gh-template-theme"
+  - name: Odyssey Theme
+    github_id: littlesticks/odyssey-theme
+    category: "gh-template-theme"
+  - name: Astrofy
+    github_id: manuelernestog/astrofy
+    category: "gh-template-theme"
+  - name: Astroplate
+    github_id: zeon-studio/astroplate
+    category: "gh-template-theme"
+    labels: ["tailwind"]
+  - name: Astro Starter Kit - Docs Site
+    github_id: advanced-astro/astro-docs-template
+    category: "gh-template-theme"
+    labels: ["typescript"]
+  - name: Astrolus
+    github_id: Tailus-UI/astro-theme
+    category: "gh-template-theme"
+    labels: ["tailwind", "tailus", "typescript"]
+  - name: Bookworm Light Astro
+    github_id: themefisher/bookworm-light-astro
+    category: "gh-template-theme"
+    labels: ["tailwind", "typescript"]
+
+  - name: Astro Quickstart Template
+    github_id: netlify-templates/astro-quickstart
+    category: "gh-template-starter"
