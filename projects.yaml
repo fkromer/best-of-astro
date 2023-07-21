@@ -15,6 +15,12 @@ categories:
     title: "Theme (GitHub template)"
   - category: "gh-template-starter"
     title: "Starter (GitHub template)"
+  - category: "integrations-cms"
+    title: "Integrations (CMS)"
+  - category: "integrations-frontend"
+    title: "Integrations (Frontend Frameworks)"
+  - category: "integrations-ssr"
+    title: "Integrations (SSR Adapters)"
 
 labels:
   - label: "javascript"
@@ -66,3 +72,45 @@ projects:
   - name: Astro Quickstart Template
     github_id: netlify-templates/astro-quickstart
     category: "gh-template-starter"
+
+  - name: Decap CMS (Netlify CMS)
+    github_id: delucis/astro-netlify-cms
+    category: "integrations-cms"
+
+  - name: AlpineJS
+    npm_id: "@astrojs/alpinejs"
+    category: "integrations-frontend"
+  - name: Preact
+    npm_id: "@astrojs/preact"
+    category: "integrations-frontend"
+  - name: Lit
+    npm_id: "@astrojs/lit"
+    category: "integrations-frontend"
+  - name: React
+    npm_id: "@astrojs/react"
+    category: "integrations-frontend"
+  - name: SolidJS
+    npm_id: "@astrojs/solid-js"
+    category: "integrations-frontend"
+  - name: Svelte
+    npm_id: "@astrojs/svelte"
+    category: "integrations-frontend"
+  - name: Vue
+    npm_id: "@astrojs/vue"
+    category: "integrations-frontend"
+
+  - name: Cloudflare
+    npm_id: "@astrojs/cloudflare"
+    category: "integrations-ssr"
+  - name: Deno
+    npm_id: "@astrojs/deno"
+    category: "integrations-ssr"
+  - name: Netlify
+    npm_id: "@astrojs/netlify"
+    category: "integrations-ssr"
+  - name: Node
+    npm_id: "@astrojs/node"
+    category: "integrations-ssr"
+  - name: Vercel
+    npm_id: "@astrojs/vercel"
+    category: "integrations-ssr"
