@@ -22,6 +22,8 @@ categories:
     title: "Integrations (Frontend Frameworks)"
   - category: "integrations-ssr"
     title: "Integrations (SSR Adapters)"
+  - category: "integrations-seo"
+    title: "Integrations (SEO)"
 
 labels:
   - label: "javascript"
@@ -77,6 +79,12 @@ projects:
   - name: Decap CMS (Netlify CMS)
     github_id: delucis/astro-netlify-cms
     category: "integrations-cms"
+  - name: Storyblok
+    github_id: storyblok/storyblok-astro
+    category: "integrations-cms"
+  - name: Contentful
+    github_id: ajsummerfield/contentful-astro
+    category: "integrations-cms"
 
   - name: AlpineJS
     npm_id: "@astrojs/alpinejs"
@@ -115,3 +123,7 @@ projects:
   - name: Vercel
     npm_id: "@astrojs/vercel"
     category: "integrations-ssr"
+
+  - name: Astro SEO
+    github_id: jonasmerlin/astro-seo
+    category: "integrations-seo"
