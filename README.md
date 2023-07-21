@@ -64,7 +64,7 @@ This curated list contains 12 awesome open-source projects with a total of 2.9K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/onwidget/astrowind">AstroWind</a></b> (🥇22 ·  ⭐ 1.1K · ➕) - AstroWind: A free template using Astro 2.0 and Tailwind CSS. Astro starter theme. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/onwidget/astrowind">AstroWind</a></b> (🥇22 ·  ⭐ 1.1K) - AstroWind: A free template using Astro 2.0 and Tailwind CSS. Astro starter theme. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/onwidget/astrowind) (👨‍💻 24 · 🔀 260 · ⏱️ 18.07.2023):
 
@@ -72,7 +72,7 @@ This curated list contains 12 awesome open-source projects with a total of 2.9K 
 	git clone https://github.com/onwidget/astrowind
 	```
 </details>
-<details><summary><b><a href="https://github.com/littlesticks/odyssey-theme">Odyssey Theme</a></b> (🥈18 ·  ⭐ 310 · ➕) - A modern business marketing website theme/starter built with Astro. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/littlesticks/odyssey-theme">Odyssey Theme</a></b> (🥈18 ·  ⭐ 310) - A modern business marketing website theme/starter built with Astro. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/littlesticks/odyssey-theme) (👨‍💻 3 · 🔀 80 · 📦 300 · 📋 20 - 30% open · ⏱️ 02.05.2023):
 
@@ -80,7 +80,7 @@ This curated list contains 12 awesome open-source projects with a total of 2.9K 
 	git clone https://github.com/littlesticks/odyssey-theme
 	```
 </details>
-<details><summary><b><a href="https://github.com/manuelernestog/astrofy">Astrofy</a></b> (🥈17 ·  ⭐ 280 · ➕) - Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS... <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/manuelernestog/astrofy">Astrofy</a></b> (🥈17 ·  ⭐ 280) - Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS... <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/manuelernestog/astrofy) (👨‍💻 13 · 🔀 93 · ⏱️ 10.07.2023):
 
@@ -88,7 +88,7 @@ This curated list contains 12 awesome open-source projects with a total of 2.9K 
 	git clone https://github.com/manuelernestog/astrofy
 	```
 </details>
-<details><summary><b><a href="https://github.com/surjithctly/astroship">AstroShip</a></b> (🥈13 ·  ⭐ 570 · ➕) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/surjithctly/astroship">AstroShip</a></b> (🥈13 ·  ⭐ 570) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/surjithctly/astroship) (👨‍💻 6 · 🔀 120 · 📋 13 - 15% open · ⏱️ 13.04.2023):
 
@@ -104,7 +104,7 @@ This curated list contains 12 awesome open-source projects with a total of 2.9K 
 	git clone https://github.com/zeon-studio/astroplate
 	```
 </details>
-<details><summary><b><a href="https://github.com/markteekman/accessible-astro-dashboard">Accessible Astro Dashboard</a></b> (🥉9 ·  ⭐ 85 · ➕) - An Accessible Admin Dashboard Theme for Astro with a login page and a dashboard overview. Includes accessibility.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>accessible-astro-components</code></summary>
+<details><summary><b><a href="https://github.com/markteekman/accessible-astro-dashboard">Accessible Astro Dashboard</a></b> (🥉9 ·  ⭐ 85) - An Accessible Admin Dashboard Theme for Astro with a login page and a dashboard overview. Includes accessibility.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>accessible-astro-components</code></summary>
 
 - [GitHub](https://github.com/markteekman/accessible-astro-dashboard) (👨‍💻 2 · 🔀 15 · ⏱️ 29.03.2023):
 
@@ -120,7 +120,7 @@ This curated list contains 12 awesome open-source projects with a total of 2.9K 
 	git clone https://github.com/themefisher/bookworm-light-astro
 	```
 </details>
-<details><summary><b><a href="https://github.com/Tailus-UI/astro-theme">Astrolus</a></b> (🥉5 ·  ⭐ 63 · ➕) - Home page template built with astro and tailwindcss using tailus blocks. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/Tailus-UI/astro-theme">Astrolus</a></b> (🥉5 ·  ⭐ 63) - Home page template built with astro and tailwindcss using tailus blocks. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/Tailus-UI/astro-theme) (👨‍💻 2 · 🔀 21 · ⏱️ 31.03.2023):
 
@@ -138,7 +138,7 @@ This curated list contains 12 awesome open-source projects with a total of 2.9K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/netlify-templates/astro-quickstart">Astro Quickstart Template</a></b> (🥇7 ·  ⭐ 38 · ➕) - A bare-bones Astro template to get you deployed to Netlify fast!. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/netlify-templates/astro-quickstart">Astro Quickstart Template</a></b> (🥇7 ·  ⭐ 38) - A bare-bones Astro template to get you deployed to Netlify fast!. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/netlify-templates/astro-quickstart) (👨‍💻 5 · 🔀 31 · 📋 3 - 66% open · ⏱️ 17.07.2023):
 
@@ -152,7 +152,7 @@ This curated list contains 12 awesome open-source projects with a total of 2.9K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/delucis/astro-netlify-cms">Decap CMS (Netlify CMS)</a></b> (🥇14 ·  ⭐ 130 · ➕) - Integration to add Netlify CMSs admin dashboard to any Astro project. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/delucis/astro-netlify-cms">Decap CMS (Netlify CMS)</a></b> (🥇14 ·  ⭐ 130) - Integration to add Netlify CMSs admin dashboard to any Astro project. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/delucis/astro-netlify-cms) (👨‍💻 6 · 🔀 18 · 📦 390 · 📋 25 - 32% open · ⏱️ 11.07.2023):
 
