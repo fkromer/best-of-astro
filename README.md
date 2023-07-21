@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-12-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-16-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/fkromer/best-of-astro/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fkromer/best-of-astro?color=green&label=updated"></a>
 </p>
 
-This curated list contains 12 awesome open-source projects with a total of 2.9K stars grouped into 6 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-astro/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-astro/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-astro/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 16 awesome open-source projects with a total of 3.8K stars grouped into 8 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-astro/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-astro/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-astro/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -24,9 +24,11 @@ This curated list contains 12 awesome open-source projects with a total of 2.9K 
 - [Theme](#theme) _1 projects_
 - [Theme (GitHub template)](#theme-github-template) _9 projects_
 - [Starter (GitHub template)](#starter-github-template) _1 projects_
-- [Integrations (CMS)](#integrations-cms) _1 projects_
+- [Integrations (CMS)](#integrations-cms) _3 projects_
 - [Integrations (Frontend Frameworks)](#integrations-frontend-frameworks) _0 projects_
 - [Integrations (SSR Adapters)](#integrations-ssr-adapters) _0 projects_
+- [Integrations (SEO)](#integrations-seo) _1 projects_
+- [Integrations (SPA)](#integrations-spa) _1 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -152,13 +154,18 @@ This curated list contains 12 awesome open-source projects with a total of 2.9K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/delucis/astro-netlify-cms">Decap CMS (Netlify CMS)</a></b> (🥇14 ·  ⭐ 130) - Integration to add Netlify CMSs admin dashboard to any Astro project. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/delucis/astro-netlify-cms">Decap CMS (Netlify CMS)</a></b> (🥉14 ·  ⭐ 130) - Integration to add Netlify CMSs admin dashboard to any Astro project. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/delucis/astro-netlify-cms) (👨‍💻 6 · 🔀 18 · 📦 390 · 📋 25 - 32% open · ⏱️ 11.07.2023):
 
 	```
 	git clone https://github.com/delucis/astro-netlify-cms
 	```
+</details>
+<details><summary>Show 2 hidden projects...</summary>
+
+- <b><a href="https://github.com/storyblok/storyblok-astro">Storyblok</a></b> (🥇16 ·  ⭐ 68 · ➕) -  <code>❗Unlicensed</code>
+- <b><a href="https://github.com/ajsummerfield/contentful-astro">Contentful</a></b> (🥉3 · 🐣) -  <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -172,6 +179,34 @@ This curated list contains 12 awesome open-source projects with a total of 2.9K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
+<br>
+
+## Integrations (SEO)
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/jonasmerlin/astro-seo">Astro SEO</a></b> (🥇22 ·  ⭐ 490 · ➕) - Makes it easy to add information that is relevant for SEO to your Astro app. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/jonasmerlin/astro-seo) (👨‍💻 20 · 🔀 33 · 📦 1.6K · 📋 23 - 8% open · ⏱️ 11.07.2023):
+
+	```
+	git clone https://github.com/jonasmerlin/astro-seo
+	```
+</details>
+<br>
+
+## Integrations (SPA)
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/RafidMuhymin/astro-spa">Astro SPA</a></b> (🥇14 ·  ⭐ 330 · 💤) - An Astro JS component that turns a website into an SPA and boost performance using various techniques. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/RafidMuhymin/astro-spa) (👨‍💻 2 · 🔀 12 · 📦 83 · 📋 7 - 57% open · ⏱️ 19.04.2022):
+
+	```
+	git clone https://github.com/RafidMuhymin/astro-spa
+	```
+</details>
 
 ---
 
