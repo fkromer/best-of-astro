@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-30-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-31-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/fkromer/best-of-astro/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fkromer/best-of-astro?color=green&label=updated"></a>
 </p>
 
-This curated list contains 30 awesome open-source projects with a total of 390K stars grouped into 10 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-astro/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-astro/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-astro/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 31 awesome open-source projects with a total of 390K stars grouped into 11 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-astro/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-astro/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-astro/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -30,6 +30,7 @@ This curated list contains 30 awesome open-source projects with a total of 390K 
 - [Integrations (SSR Adapters)](#integrations-ssr-adapters) _6 projects_
 - [Integrations (SEO)](#integrations-seo) _1 projects_
 - [Integrations (SPA)](#integrations-spa) _1 projects_
+- [Integrations (IDE)](#integrations-ide) _1 projects_
 - [Astro Components](#astro-components) _1 projects_
 
 ## Explanation
@@ -367,11 +368,25 @@ _Integrations can be found by using the search field on https://astro.build/inte
 </details>
 <br>
 
+## Integrations (IDE)
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/withastro/language-tools">VSCode Astro Language Tools</a></b> (🥇26 ·  ⭐ 150 · ➕) - Language tools for Astro. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/withastro/language-tools) (👨‍💻 25 · 🔀 28 · 📦 42K · 📋 240 - 11% open · ⏱️ 21.07.2023):
+
+	```
+	git clone https://github.com/withastro/language-tools
+	```
+</details>
+<br>
+
 ## Astro Components
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/JulianCataldo/web-garden">astro-terminal-player</a></b> (🥇11 ·  ⭐ 100 · ➕) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS,.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
+<details><summary><b><a href="https://github.com/JulianCataldo/web-garden">astro-terminal-player</a></b> (🥇11 ·  ⭐ 100) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS,.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
 - [GitHub](https://github.com/JulianCataldo/web-garden) (👨‍💻 5 · 🔀 11 · 📦 7 · 📋 19 - 57% open · ⏱️ 18.04.2023):
 
