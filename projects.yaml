@@ -16,6 +16,9 @@ categories:
     title: "Theme (GitHub template)"
   - category: "gh-template-starter"
     title: "Starter (GitHub template)"
+  - category: "integrations"
+    title: "Integrations"
+    subtitle: "Integrations can be found by using the search field on https://astro.build/integrations ."
   - category: "integrations-cms"
     title: "Integrations (CMS)"
   - category: "integrations-frontend"
@@ -26,6 +29,8 @@ categories:
     title: "Integrations (SEO)"
   - category: "integrations-spa"
     title: "Integrations (SPA)"
+  - category: "components"
+    title: "Astro Components"
 
 labels:
   - label: "javascript"
@@ -137,6 +142,9 @@ projects:
     github_id: withastro/astro
     npm_id: "@astrojs/vercel"
     category: "integrations-ssr"
+  - name: Firebase
+    github_id: thepassle/astro-firebase
+    category: "integrations-ssr"
 
   - name: Astro SEO
     github_id: jonasmerlin/astro-seo
@@ -145,3 +153,8 @@ projects:
   - name: Astro SPA
     github_id: RafidMuhymin/astro-spa
     category: "integrations-spa"
+
+  - name: astro-terminal-player
+    github_id: JulianCataldo/web-garden
+    npm_id: astro-terminal-player
+    category: "components"
