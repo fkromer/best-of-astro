@@ -1,10 +1,7 @@
-## 📈 Trending Up
+## ➕ Added Projects
 
-_Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
+_Projects that were recently added to this best-of list._
 
-- <b><a href="https://github.com/withastro/astro">React</a></b> (🥇39 ·  ⭐ 32K · 📈) - The all-in-one web framework designed for speed. Star to support our work!. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/withastro/astro">Preact</a></b> (🥈38 ·  ⭐ 32K · 📈) - The all-in-one web framework designed for speed. Star to support our work!. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/withastro/astro">SolidJS</a></b> (🥈38 ·  ⭐ 32K · 📈) - The all-in-one web framework designed for speed. Star to support our work!. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/withastro/astro">Svelte</a></b> (🥈38 ·  ⭐ 32K · 📈) - The all-in-one web framework designed for speed. Star to support our work!. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/withastro/astro">Vue</a></b> (🥈38 ·  ⭐ 32K · 📈) - The all-in-one web framework designed for speed. Star to support our work!. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/JulianCataldo/web-garden">astro-terminal-player</a></b> (🥇11 ·  ⭐ 100 · ➕) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS,.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code>
+- <b><a href="https://github.com/thepassle/astro-firebase">Firebase</a></b> (🥉3 ·  ⭐ 14 · 💤) -  <code>❗Unlicensed</code>
 

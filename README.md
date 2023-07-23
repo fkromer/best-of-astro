@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-28-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-30-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/fkromer/best-of-astro/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fkromer/best-of-astro?color=green&label=updated"></a>
 </p>
 
-This curated list contains 28 awesome open-source projects with a total of 390K stars grouped into 8 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-astro/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-astro/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-astro/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 30 awesome open-source projects with a total of 390K stars grouped into 10 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-astro/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-astro/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-astro/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -24,11 +24,13 @@ This curated list contains 28 awesome open-source projects with a total of 390K 
 - [Theme](#theme) _1 projects_
 - [Theme (GitHub template)](#theme-github-template) _9 projects_
 - [Starter (GitHub template)](#starter-github-template) _1 projects_
+- [Integrations](#integrations) _0 projects_
 - [Integrations (CMS)](#integrations-cms) _3 projects_
 - [Integrations (Frontend Frameworks)](#integrations-frontend-frameworks) _7 projects_
-- [Integrations (SSR Adapters)](#integrations-ssr-adapters) _5 projects_
+- [Integrations (SSR Adapters)](#integrations-ssr-adapters) _6 projects_
 - [Integrations (SEO)](#integrations-seo) _1 projects_
 - [Integrations (SPA)](#integrations-spa) _1 projects_
+- [Astro Components](#astro-components) _1 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -150,6 +152,14 @@ This curated list contains 28 awesome open-source projects with a total of 390K 
 </details>
 <br>
 
+## Integrations
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Integrations can be found by using the search field on https://astro.build/integrations ._
+
+<br>
+
 ## Integrations (CMS)
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
@@ -173,7 +183,7 @@ This curated list contains 28 awesome open-source projects with a total of 390K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/withastro/astro">React</a></b> (🥇39 ·  ⭐ 32K · 📈) - The all-in-one web framework designed for speed. Star to support our work!. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/withastro/astro">React</a></b> (🥇39 ·  ⭐ 32K) - The all-in-one web framework designed for speed. Star to support our work!. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/withastro/astro) (👨‍💻 540 · 🔀 1.6K · 📦 50K · 📋 3K - 4% open · ⏱️ 21.07.2023):
 
@@ -185,7 +195,7 @@ This curated list contains 28 awesome open-source projects with a total of 390K 
 	npm install @astrojs/react
 	```
 </details>
-<details><summary><b><a href="https://github.com/withastro/astro">Preact</a></b> (🥈38 ·  ⭐ 32K · 📈) - The all-in-one web framework designed for speed. Star to support our work!. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/withastro/astro">Preact</a></b> (🥈38 ·  ⭐ 32K) - The all-in-one web framework designed for speed. Star to support our work!. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/withastro/astro) (👨‍💻 540 · 🔀 1.6K · 📦 50K · 📋 3K - 4% open · ⏱️ 21.07.2023):
 
@@ -197,7 +207,7 @@ This curated list contains 28 awesome open-source projects with a total of 390K 
 	npm install @astrojs/preact
 	```
 </details>
-<details><summary><b><a href="https://github.com/withastro/astro">SolidJS</a></b> (🥈38 ·  ⭐ 32K · 📈) - The all-in-one web framework designed for speed. Star to support our work!. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/withastro/astro">SolidJS</a></b> (🥈38 ·  ⭐ 32K) - The all-in-one web framework designed for speed. Star to support our work!. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/withastro/astro) (👨‍💻 540 · 🔀 1.6K · 📦 50K · 📋 3K - 4% open · ⏱️ 21.07.2023):
 
@@ -209,7 +219,7 @@ This curated list contains 28 awesome open-source projects with a total of 390K 
 	npm install @astrojs/solid-js
 	```
 </details>
-<details><summary><b><a href="https://github.com/withastro/astro">Svelte</a></b> (🥈38 ·  ⭐ 32K · 📈) - The all-in-one web framework designed for speed. Star to support our work!. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/withastro/astro">Svelte</a></b> (🥈38 ·  ⭐ 32K) - The all-in-one web framework designed for speed. Star to support our work!. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/withastro/astro) (👨‍💻 540 · 🔀 1.6K · 📦 50K · 📋 3K - 4% open · ⏱️ 21.07.2023):
 
@@ -221,7 +231,7 @@ This curated list contains 28 awesome open-source projects with a total of 390K 
 	npm install @astrojs/svelte
 	```
 </details>
-<details><summary><b><a href="https://github.com/withastro/astro">Vue</a></b> (🥈38 ·  ⭐ 32K · 📈) - The all-in-one web framework designed for speed. Star to support our work!. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/withastro/astro">Vue</a></b> (🥈38 ·  ⭐ 32K) - The all-in-one web framework designed for speed. Star to support our work!. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/withastro/astro) (👨‍💻 540 · 🔀 1.6K · 📦 50K · 📋 3K - 4% open · ⏱️ 21.07.2023):
 
@@ -323,6 +333,10 @@ This curated list contains 28 awesome open-source projects with a total of 390K 
 	npm install @astrojs/deno
 	```
 </details>
+<details><summary>Show 1 hidden projects...</summary>
+
+- <b><a href="https://github.com/thepassle/astro-firebase">Firebase</a></b> (🥉3 ·  ⭐ 14 · 💤) -  <code>❗Unlicensed</code>
+</details>
 <br>
 
 ## Integrations (SEO)
@@ -349,6 +363,24 @@ This curated list contains 28 awesome open-source projects with a total of 390K 
 
 	```
 	git clone https://github.com/RafidMuhymin/astro-spa
+	```
+</details>
+<br>
+
+## Astro Components
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/JulianCataldo/web-garden">astro-terminal-player</a></b> (🥇11 ·  ⭐ 100 · ➕) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS,.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
+
+- [GitHub](https://github.com/JulianCataldo/web-garden) (👨‍💻 5 · 🔀 11 · 📦 7 · 📋 19 - 57% open · ⏱️ 18.04.2023):
+
+	```
+	git clone https://github.com/JulianCataldo/web-garden
+	```
+- [npm](https://www.npmjs.com/package/astro-terminal-player) (📥 54 / month):
+	```
+	npm install astro-terminal-player
 	```
 </details>
 
