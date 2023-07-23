@@ -29,6 +29,8 @@ categories:
     title: "Integrations (SEO)"
   - category: "integrations-spa"
     title: "Integrations (SPA)"
+  - category: "integrations-ide"
+    title: "Integrations (IDE)"
   - category: "components"
     title: "Astro Components"
 
@@ -153,6 +155,10 @@ projects:
   - name: Astro SPA
     github_id: RafidMuhymin/astro-spa
     category: "integrations-spa"
+
+  - name: VSCode Astro Language Tools
+    github_id: withastro/language-tools
+    category: "integrations-ide"
 
   - name: astro-terminal-player
     github_id: JulianCataldo/web-garden
