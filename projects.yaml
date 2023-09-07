@@ -164,3 +164,7 @@ projects:
     github_id: JulianCataldo/web-garden
     npm_id: astro-terminal-player
     category: "components"
+  - name: astro-navbar
+    github_id: surjithctly/astro-navbar
+    npm_id: astro-navbar
+    category: "components"
