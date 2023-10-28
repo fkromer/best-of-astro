@@ -14,6 +14,8 @@ categories:
     title: "Theme"
   - category: "gh-template-theme"
     title: "Theme (GitHub template)"
+  - category: "theme"
+    title: "Theme"
   - category: "gh-template-starter"
     title: "Starter (GitHub template)"
   - category: "integrations"
@@ -80,6 +82,11 @@ projects:
     github_id: themefisher/bookworm-light-astro
     category: "gh-template-theme"
     labels: ["tailwind", "typescript"]
+
+  - name: Astros
+    github_id: zankhq/astros
+    category: "theme"
+    labels: ["tailwind", "alpinejs"]
 
   - name: Astro Quickstart Template
     github_id: netlify-templates/astro-quickstart
