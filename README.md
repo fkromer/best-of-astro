@@ -55,9 +55,9 @@ This curated list contains 33 awesome open-source projects with a total of 460K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/zankhq/astros">Astros</a></b> (🥇14 ·  ⭐ 66) - Template with astro, tailwind and alpinejs. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code>alpinejs</code></summary>
+<details><summary><b><a href="https://github.com/zankhq/astros">Astros</a></b> (🥇14 ·  ⭐ 70) - Template with astro, tailwind and alpinejs. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code>alpinejs</code></summary>
 
-- [GitHub](https://github.com/zankhq/astros) (👨‍💻 4 · 🔀 28 · 📋 9 - 22% open · ⏱️ 06.12.2023):
+- [GitHub](https://github.com/zankhq/astros) (👨‍💻 4 · 🔀 29 · 📋 13 - 38% open · ⏱️ 09.12.2023):
 
 	```
 	git clone https://github.com/zankhq/astros
@@ -65,7 +65,7 @@ This curated list contains 33 awesome open-source projects with a total of 460K 
 </details>
 <details><summary><b><a href="https://github.com/themesberg/flowbite-astro-admin-dashboard">Flowbite Astro Admin Dashboard</a></b> (🥉9 ·  ⭐ 270) - Open-source admin dashboard template built with Astro, Flowbite, and Tailwind CSS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/themesberg/flowbite-astro-admin-dashboard) (👨‍💻 2 · 🔀 69 · 📋 5 - 20% open · ⏱️ 10.11.2023):
+- [GitHub](https://github.com/themesberg/flowbite-astro-admin-dashboard) (👨‍💻 2 · 🔀 70 · 📋 5 - 20% open · ⏱️ 10.11.2023):
 
 	```
 	git clone https://github.com/themesberg/flowbite-astro-admin-dashboard
@@ -77,9 +77,9 @@ This curated list contains 33 awesome open-source projects with a total of 460K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/onwidget/astrowind">AstroWind</a></b> (🥇19 ·  ⭐ 1.7K) - AstroWind: A free template using Astro 3.0 and Tailwind CSS. Astro starter theme. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/onwidget/astrowind">AstroWind</a></b> (🥇19 ·  ⭐ 1.7K) - AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/onwidget/astrowind) (👨‍💻 32 · 🔀 420 · 📋 86 - 2% open · ⏱️ 06.12.2023):
+- [GitHub](https://github.com/onwidget/astrowind) (👨‍💻 32 · 🔀 420 · 📋 92 - 6% open · ⏱️ 09.12.2023):
 
 	```
 	git clone https://github.com/onwidget/astrowind
@@ -93,15 +93,15 @@ This curated list contains 33 awesome open-source projects with a total of 460K 
 	git clone https://github.com/littlesticks/odyssey-theme
 	```
 </details>
-<details><summary><b><a href="https://github.com/manuelernestog/astrofy">Astrofy</a></b> (🥈16 ·  ⭐ 470 · 📉) - Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS... <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/manuelernestog/astrofy">Astrofy</a></b> (🥈16 ·  ⭐ 480) - Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS... <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/manuelernestog/astrofy) (👨‍💻 15 · 🔀 160 · 📋 24 - 20% open · ⏱️ 05.10.2023):
+- [GitHub](https://github.com/manuelernestog/astrofy) (👨‍💻 15 · 🔀 170 · 📋 24 - 20% open · ⏱️ 05.10.2023):
 
 	```
 	git clone https://github.com/manuelernestog/astrofy
 	```
 </details>
-<details><summary><b><a href="https://github.com/surjithctly/astroship">AstroShip</a></b> (🥈14 ·  ⭐ 810) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/surjithctly/astroship">AstroShip</a></b> (🥈14 ·  ⭐ 820) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/surjithctly/astroship) (👨‍💻 9 · 🔀 180 · 📋 20 - 10% open · ⏱️ 15.11.2023):
 
@@ -111,7 +111,7 @@ This curated list contains 33 awesome open-source projects with a total of 460K 
 </details>
 <details><summary><b><a href="https://github.com/zeon-studio/astroplate">Astroplate</a></b> (🥉12 ·  ⭐ 230) - Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/zeon-studio/astroplate) (👨‍💻 8 · 🔀 67 · ⏱️ 03.12.2023):
+- [GitHub](https://github.com/zeon-studio/astroplate) (👨‍💻 8 · 🔀 70 · ⏱️ 13.12.2023):
 
 	```
 	git clone https://github.com/zeon-studio/astroplate
@@ -125,9 +125,9 @@ This curated list contains 33 awesome open-source projects with a total of 460K 
 	git clone https://github.com/markteekman/accessible-astro-dashboard
 	```
 </details>
-<details><summary><b><a href="https://github.com/themefisher/bookworm-light-astro">Bookworm Light Astro</a></b> (🥉8 ·  ⭐ 120 · 📉) - Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/themefisher/bookworm-light-astro">Bookworm Light Astro</a></b> (🥉8 ·  ⭐ 120) - Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/themefisher/bookworm-light-astro) (👨‍💻 6 · 🔀 30 · 📋 8 - 25% open · ⏱️ 19.08.2023):
+- [GitHub](https://github.com/themefisher/bookworm-light-astro) (👨‍💻 6 · 🔀 32 · 📋 8 - 25% open · ⏱️ 19.08.2023):
 
 	```
 	git clone https://github.com/themefisher/bookworm-light-astro
@@ -141,7 +141,7 @@ This curated list contains 33 awesome open-source projects with a total of 460K 
 	git clone https://github.com/Tailus-UI/astro-theme
 	```
 </details>
-<details><summary><b><a href="https://github.com/advanced-astro/astro-docs-template">Astro Starter Kit - Docs Site</a></b> (🥉6 ·  ⭐ 38) - The Advanced Astro Docs Template. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/advanced-astro/astro-docs-template">Astro Starter Kit - Docs Site</a></b> (🥉6 ·  ⭐ 40) - The Advanced Astro Docs Template. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/advanced-astro/astro-docs-template) (👨‍💻 2 · 🔀 4 · ⏱️ 17.11.2023):
 
@@ -155,7 +155,7 @@ This curated list contains 33 awesome open-source projects with a total of 460K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/netlify-templates/astro-quickstart">Astro Quickstart Template</a></b> (🥇6 ·  ⭐ 42) - A bare-bones Astro template to get you deployed to Netlify fast!. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/netlify-templates/astro-quickstart">Astro Quickstart Template</a></b> (🥇6 ·  ⭐ 43) - A bare-bones Astro template to get you deployed to Netlify fast!. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/netlify-templates/astro-quickstart) (👨‍💻 5 · 🔀 42 · 📋 3 - 66% open · ⏱️ 20.11.2023):
 
@@ -179,7 +179,7 @@ _Integrations can be found by using the search field on https://astro.build/inte
 
 <details><summary><b><a href="https://github.com/delucis/astro-netlify-cms">Decap CMS (Netlify CMS)</a></b> (🥉16 ·  ⭐ 150) - Integration to add Netlify CMSs admin dashboard to any Astro project. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/delucis/astro-netlify-cms) (👨‍💻 6 · 🔀 22 · 📦 580 · 📋 30 - 40% open · ⏱️ 30.08.2023):
+- [GitHub](https://github.com/delucis/astro-netlify-cms) (👨‍💻 6 · 🔀 22 · 📦 590 · 📋 30 - 40% open · ⏱️ 30.08.2023):
 
 	```
 	git clone https://github.com/delucis/astro-netlify-cms
@@ -187,7 +187,7 @@ _Integrations can be found by using the search field on https://astro.build/inte
 </details>
 <details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://github.com/storyblok/storyblok-astro">Storyblok</a></b> (🥇17 ·  ⭐ 85) -  <code>❗Unlicensed</code>
+- <b><a href="https://github.com/storyblok/storyblok-astro">Storyblok</a></b> (🥇17 ·  ⭐ 94) -  <code>❗Unlicensed</code>
 - <b><a href="https://github.com/ajsummerfield/contentful-astro">Contentful</a></b> (🥉3) -  <code>❗Unlicensed</code>
 </details>
 <br>
@@ -196,21 +196,21 @@ _Integrations can be found by using the search field on https://astro.build/inte
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/withastro/astro">React</a></b> (🥇40 ·  ⭐ 38K · 📈) - The web framework that scales with you Build fast content sites, powerful web applications, dynamic server APIs, and.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/withastro/astro">React</a></b> (🥇40 ·  ⭐ 38K) - The web framework that scales with you Build fast content sites, powerful web applications, dynamic server APIs, and.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/withastro/astro) (👨‍💻 650 · 🔀 1.9K · 📦 77K · 📋 3.6K - 3% open · ⏱️ 07.12.2023):
+- [GitHub](https://github.com/withastro/astro) (👨‍💻 660 · 🔀 1.9K · 📦 78K · 📋 3.6K - 3% open · ⏱️ 14.12.2023):
 
 	```
 	git clone https://github.com/withastro/astro
 	```
-- [npm](https://www.npmjs.com/package/@astrojs/react) (📥 300K / month):
+- [npm](https://www.npmjs.com/package/@astrojs/react) (📥 290K / month):
 	```
 	npm install @astrojs/react
 	```
 </details>
-<details><summary><b><a href="https://github.com/withastro/astro">Vue</a></b> (🥇40 ·  ⭐ 38K · 📈) - The web framework that scales with you Build fast content sites, powerful web applications, dynamic server APIs, and.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/withastro/astro">Vue</a></b> (🥇40 ·  ⭐ 38K) - The web framework that scales with you Build fast content sites, powerful web applications, dynamic server APIs, and.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/withastro/astro) (👨‍💻 650 · 🔀 1.9K · 📦 77K · 📋 3.6K - 3% open · ⏱️ 07.12.2023):
+- [GitHub](https://github.com/withastro/astro) (👨‍💻 660 · 🔀 1.9K · 📦 78K · 📋 3.6K - 3% open · ⏱️ 14.12.2023):
 
 	```
 	git clone https://github.com/withastro/astro
@@ -220,9 +220,9 @@ _Integrations can be found by using the search field on https://astro.build/inte
 	npm install @astrojs/vue
 	```
 </details>
-<details><summary><b><a href="https://github.com/withastro/astro">Preact</a></b> (🥈39 ·  ⭐ 38K · 📈) - The web framework that scales with you Build fast content sites, powerful web applications, dynamic server APIs, and.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/withastro/astro">Preact</a></b> (🥈39 ·  ⭐ 38K) - The web framework that scales with you Build fast content sites, powerful web applications, dynamic server APIs, and.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/withastro/astro) (👨‍💻 650 · 🔀 1.9K · 📦 77K · 📋 3.6K - 3% open · ⏱️ 07.12.2023):
+- [GitHub](https://github.com/withastro/astro) (👨‍💻 660 · 🔀 1.9K · 📦 78K · 📋 3.6K - 3% open · ⏱️ 14.12.2023):
 
 	```
 	git clone https://github.com/withastro/astro
@@ -232,9 +232,9 @@ _Integrations can be found by using the search field on https://astro.build/inte
 	npm install @astrojs/preact
 	```
 </details>
-<details><summary><b><a href="https://github.com/withastro/astro">Lit</a></b> (🥈39 ·  ⭐ 38K · 📈) - The web framework that scales with you Build fast content sites, powerful web applications, dynamic server APIs, and.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/withastro/astro">Lit</a></b> (🥈39 ·  ⭐ 38K) - The web framework that scales with you Build fast content sites, powerful web applications, dynamic server APIs, and.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/withastro/astro) (👨‍💻 650 · 🔀 1.9K · 📦 77K · 📋 3.6K - 3% open · ⏱️ 07.12.2023):
+- [GitHub](https://github.com/withastro/astro) (👨‍💻 660 · 🔀 1.9K · 📦 78K · 📋 3.6K - 3% open · ⏱️ 14.12.2023):
 
 	```
 	git clone https://github.com/withastro/astro
@@ -246,36 +246,36 @@ _Integrations can be found by using the search field on https://astro.build/inte
 </details>
 <details><summary><b><a href="https://github.com/withastro/astro">SolidJS</a></b> (🥈39 ·  ⭐ 38K) - The web framework that scales with you Build fast content sites, powerful web applications, dynamic server APIs, and.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/withastro/astro) (👨‍💻 650 · 🔀 1.9K · 📦 77K · 📋 3.6K - 3% open · ⏱️ 07.12.2023):
+- [GitHub](https://github.com/withastro/astro) (👨‍💻 660 · 🔀 1.9K · 📦 78K · 📋 3.6K - 3% open · ⏱️ 14.12.2023):
 
 	```
 	git clone https://github.com/withastro/astro
 	```
-- [npm](https://www.npmjs.com/package/@astrojs/solid-js) (📥 19K / month):
+- [npm](https://www.npmjs.com/package/@astrojs/solid-js) (📥 20K / month):
 	```
 	npm install @astrojs/solid-js
 	```
 </details>
 <details><summary><b><a href="https://github.com/withastro/astro">Svelte</a></b> (🥈39 ·  ⭐ 38K) - The web framework that scales with you Build fast content sites, powerful web applications, dynamic server APIs, and.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/withastro/astro) (👨‍💻 650 · 🔀 1.9K · 📦 77K · 📋 3.6K - 3% open · ⏱️ 07.12.2023):
+- [GitHub](https://github.com/withastro/astro) (👨‍💻 660 · 🔀 1.9K · 📦 78K · 📋 3.6K - 3% open · ⏱️ 14.12.2023):
 
 	```
 	git clone https://github.com/withastro/astro
 	```
-- [npm](https://www.npmjs.com/package/@astrojs/svelte) (📥 57K / month):
+- [npm](https://www.npmjs.com/package/@astrojs/svelte) (📥 59K / month):
 	```
 	npm install @astrojs/svelte
 	```
 </details>
 <details><summary><b><a href="https://github.com/withastro/astro">AlpineJS</a></b> (🥉38 ·  ⭐ 38K) - The web framework that scales with you Build fast content sites, powerful web applications, dynamic server APIs, and.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/withastro/astro) (👨‍💻 650 · 🔀 1.9K · 📦 77K · 📋 3.6K - 3% open · ⏱️ 07.12.2023):
+- [GitHub](https://github.com/withastro/astro) (👨‍💻 660 · 🔀 1.9K · 📦 78K · 📋 3.6K - 3% open · ⏱️ 14.12.2023):
 
 	```
 	git clone https://github.com/withastro/astro
 	```
-- [npm](https://www.npmjs.com/package/@astrojs/alpinejs) (📥 7.3K / month):
+- [npm](https://www.npmjs.com/package/@astrojs/alpinejs) (📥 7.5K / month):
 	```
 	npm install @astrojs/alpinejs
 	```
@@ -286,21 +286,21 @@ _Integrations can be found by using the search field on https://astro.build/inte
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/withastro/astro">Node</a></b> (🥇40 ·  ⭐ 38K · 📈) - The web framework that scales with you Build fast content sites, powerful web applications, dynamic server APIs, and.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/withastro/astro">Node</a></b> (🥇40 ·  ⭐ 38K) - The web framework that scales with you Build fast content sites, powerful web applications, dynamic server APIs, and.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/withastro/astro) (👨‍💻 650 · 🔀 1.9K · 📦 77K · 📋 3.6K - 3% open · ⏱️ 07.12.2023):
+- [GitHub](https://github.com/withastro/astro) (👨‍💻 660 · 🔀 1.9K · 📦 78K · 📋 3.6K - 3% open · ⏱️ 14.12.2023):
 
 	```
 	git clone https://github.com/withastro/astro
 	```
-- [npm](https://www.npmjs.com/package/@astrojs/node) (📥 84K / month):
+- [npm](https://www.npmjs.com/package/@astrojs/node) (📥 88K / month):
 	```
 	npm install @astrojs/node
 	```
 </details>
 <details><summary><b><a href="https://github.com/withastro/astro">Cloudflare</a></b> (🥈39 ·  ⭐ 38K) - The web framework that scales with you Build fast content sites, powerful web applications, dynamic server APIs, and.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/withastro/astro) (👨‍💻 650 · 🔀 1.9K · 📦 77K · 📋 3.6K - 3% open · ⏱️ 07.12.2023):
+- [GitHub](https://github.com/withastro/astro) (👨‍💻 660 · 🔀 1.9K · 📦 78K · 📋 3.6K - 3% open · ⏱️ 14.12.2023):
 
 	```
 	git clone https://github.com/withastro/astro
@@ -312,7 +312,7 @@ _Integrations can be found by using the search field on https://astro.build/inte
 </details>
 <details><summary><b><a href="https://github.com/withastro/astro">Netlify</a></b> (🥈39 ·  ⭐ 38K) - The web framework that scales with you Build fast content sites, powerful web applications, dynamic server APIs, and.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/withastro/astro) (👨‍💻 650 · 🔀 1.9K · 📦 77K · 📋 3.6K - 3% open · ⏱️ 07.12.2023):
+- [GitHub](https://github.com/withastro/astro) (👨‍💻 660 · 🔀 1.9K · 📦 78K · 📋 3.6K - 3% open · ⏱️ 14.12.2023):
 
 	```
 	git clone https://github.com/withastro/astro
@@ -324,19 +324,19 @@ _Integrations can be found by using the search field on https://astro.build/inte
 </details>
 <details><summary><b><a href="https://github.com/withastro/astro">Vercel</a></b> (🥈39 ·  ⭐ 38K) - The web framework that scales with you Build fast content sites, powerful web applications, dynamic server APIs, and.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/withastro/astro) (👨‍💻 650 · 🔀 1.9K · 📦 77K · 📋 3.6K - 3% open · ⏱️ 07.12.2023):
+- [GitHub](https://github.com/withastro/astro) (👨‍💻 660 · 🔀 1.9K · 📦 78K · 📋 3.6K - 3% open · ⏱️ 14.12.2023):
 
 	```
 	git clone https://github.com/withastro/astro
 	```
-- [npm](https://www.npmjs.com/package/@astrojs/vercel) (📥 49K / month):
+- [npm](https://www.npmjs.com/package/@astrojs/vercel) (📥 50K / month):
 	```
 	npm install @astrojs/vercel
 	```
 </details>
 <details><summary><b><a href="https://github.com/withastro/astro">Deno</a></b> (🥉38 ·  ⭐ 38K) - The web framework that scales with you Build fast content sites, powerful web applications, dynamic server APIs, and.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/withastro/astro) (👨‍💻 650 · 🔀 1.9K · 📦 77K · 📋 3.6K - 3% open · ⏱️ 07.12.2023):
+- [GitHub](https://github.com/withastro/astro) (👨‍💻 660 · 🔀 1.9K · 📦 78K · 📋 3.6K - 3% open · ⏱️ 14.12.2023):
 
 	```
 	git clone https://github.com/withastro/astro
@@ -356,9 +356,9 @@ _Integrations can be found by using the search field on https://astro.build/inte
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/jonasmerlin/astro-seo">Astro SEO</a></b> (🥇22 ·  ⭐ 630) - Makes it easy to add information that is relevant for SEO to your Astro app. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jonasmerlin/astro-seo">Astro SEO</a></b> (🥇22 ·  ⭐ 640) - Makes it easy to add information that is relevant for SEO to your Astro app. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jonasmerlin/astro-seo) (👨‍💻 23 · 🔀 39 · 📦 2.8K · 📋 30 - 23% open · ⏱️ 27.08.2023):
+- [GitHub](https://github.com/jonasmerlin/astro-seo) (👨‍💻 23 · 🔀 39 · 📦 2.9K · 📋 30 - 23% open · ⏱️ 27.08.2023):
 
 	```
 	git clone https://github.com/jonasmerlin/astro-seo
@@ -372,7 +372,7 @@ _Integrations can be found by using the search field on https://astro.build/inte
 
 <details><summary><b><a href="https://github.com/RafidMuhymin/astro-spa">Astro SPA</a></b> (🥇14 ·  ⭐ 360 · 💤) - An Astro JS component that turns a website into an SPA and boost performance using various techniques. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/RafidMuhymin/astro-spa) (👨‍💻 2 · 🔀 13 · 📦 93 · 📋 7 - 57% open · ⏱️ 19.04.2022):
+- [GitHub](https://github.com/RafidMuhymin/astro-spa) (👨‍💻 2 · 🔀 13 · 📦 94 · 📋 7 - 57% open · ⏱️ 19.04.2022):
 
 	```
 	git clone https://github.com/RafidMuhymin/astro-spa
@@ -384,9 +384,9 @@ _Integrations can be found by using the search field on https://astro.build/inte
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/withastro/language-tools">VSCode Astro Language Tools</a></b> (🥇24 ·  ⭐ 180) - Language tools for Astro. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/withastro/language-tools">VSCode Astro Language Tools</a></b> (🥇24 ·  ⭐ 190) - Language tools for Astro. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/withastro/language-tools) (👨‍💻 29 · 🔀 33 · 📦 4.5K · 📋 290 - 13% open · ⏱️ 07.12.2023):
+- [GitHub](https://github.com/withastro/language-tools) (👨‍💻 29 · 🔀 33 · 📦 5.2K · 📋 300 - 12% open · ⏱️ 13.12.2023):
 
 	```
 	git clone https://github.com/withastro/language-tools
@@ -398,9 +398,9 @@ _Integrations can be found by using the search field on https://astro.build/inte
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/surjithctly/astro-navbar">astro-navbar</a></b> (🥇19 ·  ⭐ 75) - Astro-Navbar is a fully responsive headless navigation bar for Astro. It supports mobile responsive toggle and.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/surjithctly/astro-navbar">astro-navbar</a></b> (🥇19 ·  ⭐ 78) - Astro-Navbar is a fully responsive headless navigation bar for Astro. It supports mobile responsive toggle and.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/surjithctly/astro-navbar) (👨‍💻 6 · 🔀 8 · 📦 1.1K · ⏱️ 14.10.2023):
+- [GitHub](https://github.com/surjithctly/astro-navbar) (👨‍💻 6 · 🔀 8 · 📦 1.1K · 📋 12 - 8% open · ⏱️ 14.10.2023):
 
 	```
 	git clone https://github.com/surjithctly/astro-navbar
@@ -410,14 +410,14 @@ _Integrations can be found by using the search field on https://astro.build/inte
 	npm install astro-navbar
 	```
 </details>
-<details><summary><b><a href="https://github.com/JulianCataldo/web-garden">astro-terminal-player</a></b> (🥉11 ·  ⭐ 120) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS,.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
+<details><summary><b><a href="https://github.com/JulianCataldo/web-garden">astro-terminal-player</a></b> (🥉12 ·  ⭐ 130 · 📈) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS,.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
 - [GitHub](https://github.com/JulianCataldo/web-garden) (👨‍💻 6 · 🔀 13 · 📦 44 · 📋 22 - 59% open · ⏱️ 15.09.2023):
 
 	```
 	git clone https://github.com/JulianCataldo/web-garden
 	```
-- [npm](https://www.npmjs.com/package/astro-terminal-player) (📥 18 / month):
+- [npm](https://www.npmjs.com/package/astro-terminal-player) (📥 3 / month):
 	```
 	npm install astro-terminal-player
 	```
