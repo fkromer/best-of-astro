@@ -25,6 +25,8 @@ categories:
     title: "Integrations (CMS)"
   - category: "integrations-frontend"
     title: "Integrations (Frontend Frameworks)"
+  - category: "integrations-js"
+    title: "Integrations (JavaScript)
   - category: "integrations-ssr"
     title: "Integrations (SSR Adapters)"
   - category: "integrations-seo"
@@ -130,6 +132,10 @@ projects:
     github_id: withastro/astro
     npm_id: "@astrojs/vue"
     category: "integrations-frontend"
+
+  - name: HTMX
+    github_id: xstevenyung/astro-htmx
+    category: "integrations-js"
 
   - name: Cloudflare
     github_id: withastro/astro
